@@ -1,0 +1,4 @@
+Username: microservice-dev, Password: test1234test1234
+Username: goldsquid3, Password: test1234test1234
+Username: michael ad, Password: testtesttesttest
+Username: michael.darmawan@binus.ac.id, Password: testtesttest
