@@ -4,7 +4,7 @@
     include("database/connection.php");
     include("middlewares/functions.php");
 
-    $userdata = CheckLogin($con);
+    $userdata = Auth($con);
 
 ?>
 <!DOCTYPE html>
