@@ -39,8 +39,10 @@
   <tbody>
     <tr>
       <?php
-        if($result){
-            while ($row = mysqli_fetch_assoc($result)) {
+        if($result)
+        {
+            while ($row = mysqli_fetch_assoc($result)) 
+            {
                 echo"
                 <tr>
                 <td>{$row['id']}</td>
