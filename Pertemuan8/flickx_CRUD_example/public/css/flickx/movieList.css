@@ -1,0 +1,8 @@
+html,
+body {
+    background-image: linear-gradient(135deg, #92ffc0 10%, #002661 100%);
+    font-family: "Nunito", sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
